@@ -1,20 +1,22 @@
-.. PAPGAPi Resources documentation master file, created by
-   sphinx-quickstart on Mon Aug  7 03:12:54 2023.
+.. PAPGAPI project documentation master file, created by
+   sphinx-quickstart on Sun Jul 23 16:07:02 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PAPGAPi Resources
-=============================================
+Resources for GEMS data analysis
+===========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Contents
+
+   introduction
+   conceptual_details
+   technical_details
+   conditions
+   results_applications
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. image:: images/2.jpeg
+  :width: 400
+  :alt: Alternative text
