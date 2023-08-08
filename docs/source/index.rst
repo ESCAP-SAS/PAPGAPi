@@ -19,4 +19,4 @@ Resources for GEMS data analysis
 
 .. image:: images/2.jpeg
   :width: 400
-  :alt: Alternative text
+  :alt: PAPGAPi Official Link
