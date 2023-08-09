@@ -16,6 +16,3 @@ Resources for GEMS data analysis
    conditions
    results_applications
 
-
-.. image:: docs\source\_static\1.jpeg
-  :width: 400
