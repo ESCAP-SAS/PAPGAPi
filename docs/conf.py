@@ -16,7 +16,7 @@ release = '24 July 2023'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = [ 'sphinx-simplepdf']
+extensions = [ 'sphinx_simplepdf']
 
 templates_path = ['_templates']
 exclude_patterns = []
