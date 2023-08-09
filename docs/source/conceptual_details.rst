@@ -1,5 +1,5 @@
 Conceptual Details
 ===========================================
-.. pdf-include:: source/_static/AMI.pdf
+.. pdf-include:: source/_static/GEMS Validation.pdf
   :width: 40%
    :height: 200px
