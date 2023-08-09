@@ -9,6 +9,4 @@ This section has all the resources necessary to understand concepts related to G
 .. raw:: html
 
    <a href="_static/Gems Validation.pdf" download>Gems Validation</a>
-.. if-builder:: GEMS Validation.pdf
 
-   .. include:: ./docs/source/_static/GEMS Validation.pdf
