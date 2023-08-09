@@ -1,3 +1,3 @@
 Conceptual Details
 ===========================================
-.. pdf-include:: _static/AMI.pdf
+.. pdf-include:: source/_static/AMI.pdf
