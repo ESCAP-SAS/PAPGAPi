@@ -17,7 +17,6 @@ python: "3.10"
 commands:
 - pip install -r requirements.txt
 - sphinx-build -M simplepdf docs docs/build # Use a different build-folder for a really clean build
-- cp docs/build/simplepdf/AMI.pdf docs/source/_static/AMI.pdf
 - sphinx-build -M html docs docs/_build # HTML latest, because it needs the built PDF files
 - mkdir -p _readthedocs/html/
 - cp -r docs/_build/html/* _readthedocs/html/
