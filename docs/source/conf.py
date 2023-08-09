@@ -15,7 +15,7 @@ release = '24 July 2023'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'sphinx.ext.doclinks',
+    'sphinx.ext.doclinks', 'sphinx_simplepdf',
 ]
 
 templates_path = ['_templates']
