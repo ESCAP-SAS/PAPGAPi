@@ -8,7 +8,8 @@ This section has all the resources necessary to understand concepts related to G
    :height: 200px
 .. raw:: html
 
-   <a href="_static/Gems Validation.pdf" download>1. GEMS Validation
+   <a href="_static/Gems Validation.pdf" download> 1. GEMS Validation
+
 
 .. pdf-include:: source/_static/GEMS After Launch & Operation by J. Kim.pdf
   :width: 40%
