@@ -9,6 +9,3 @@ This section has all the resources necessary to understand concepts related to G
 .. raw:: html
 
    <a href="_static/Gems Validation.pdf" download>Gems Validation</a>
-
-.. image:: 1.jpeg
-   :target: 1.jpeg
