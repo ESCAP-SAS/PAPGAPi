@@ -17,6 +17,6 @@ Resources for GEMS data analysis
    results_applications
 
 
-.. image:: images/2.jpeg
+.. image:: _static/2.jpeg
   :width: 400
   :alt: PAPGAPi Official Link
