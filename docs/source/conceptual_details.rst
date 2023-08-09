@@ -9,8 +9,7 @@ This section has all the resources necessary to understand concepts related to G
 .. raw:: html
 
    <a href="_static/GEMS Validation.pdf" download>
-  1. GEMS Validation
-
+1. GEMS Validation.pdf
 .. pdf-include:: source/_static/GEMS After Launch & Operation by J. Kim.pdf
   :width: 40%
    :height: 200px
