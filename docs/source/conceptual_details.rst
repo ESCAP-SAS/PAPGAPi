@@ -15,7 +15,8 @@ This section has all the resources necessary to understand concepts related to G
    :height: 200px
 .. raw:: html
 
-   <a href="_static/Gems Validation.pdf" download>2. GEMS After Launch & Operation by J. Kim</a>
+   <a href="_static/Gems Validation.pdf" download>
+2. GEMS After Launch & Operation by J. Kim</a>
 
 .. pdf-include:: source/_static/GEMS by Daniel J Jacob.pdf
   :width: 40%
@@ -29,19 +30,22 @@ This section has all the resources necessary to understand concepts related to G
    :height: 200px
 .. raw:: html
 
-   <a href="_static/Gems Validation.pdf" download>4. NO2 Vertical Profiles over South Korea by Laura Yang</a>
+   <a href="_static/Gems Validation.pdf" download>
+4. NO2 Vertical Profiles over South Korea by Laura Yang</a>
 
 .. pdf-include:: source/_static/Remote Sensing of Trace Gases by Cheng_Liu.pdf
   :width: 40%
    :height: 200px
 .. raw:: html
 
-   <a href="_static/Gems Validation.pdf" download>5. Remote Sensing of Trace Gases by Cheng_Liu</a>
+   <a href="_static/Gems Validation.pdf" download>
+5. Remote Sensing of Trace Gases by Cheng_Liu</a>
 
 .. pdf-include:: source/_static/Status of TEMPO by Kelly Chance.pdf
   :width: 40%
    :height: 200px
 .. raw:: html
 
-   <a href="_static/Gems Validation.pdf" download>6. Status of TEMPO by Kelly Chance</a>
+   <a href="_static/Gems Validation.pdf" download>
+6. Status of TEMPO by Kelly Chance</a>
 
