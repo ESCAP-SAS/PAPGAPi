@@ -3,27 +3,11 @@ Conceptual Details
 This section has all the resources necessary to understand concepts related to GEMS.
 
 
-.. pdf-include:: source/_static/GEMS Validation.pdf
+.. pdf-include:: source/_static/GEMS Validation.pdf, GEMS After Launch & Operation by J. Kim.pdf, GEMS by Daniel J Jacob.pdf
   :width: 40%
    :height: 200px
 .. raw:: html
 
-   <a href="_static/Gems Validation.pdf" download>1. GEMS Validation</a>
-
-.. pdf-include:: source/_static/GEMS After Launch & Operation by J. Kim.pdf
-  :width: 40%
-   :height: 200px
-.. raw:: html
-
-   <a href="_static/Gems Validation.pdf" download>
-2. GEMS After Launch & Operation by J. Kim</a>
-
-.. pdf-include:: source/_static/GEMS by Daniel J Jacob.pdf
-  :width: 40%
-   :height: 200px
-.. raw:: html
-
-   <a href="_static/Gems Validation.pdf" download>3. GEMS by Daniel J Jacob</a>
 
 .. pdf-include:: source/_static/NO2 Vertical Profiles over South Korea by Laura Yang.pdf
   :width: 40%
