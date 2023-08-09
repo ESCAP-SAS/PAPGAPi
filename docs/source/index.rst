@@ -17,5 +17,5 @@ Resources for GEMS data analysis
    results_applications
 
 
-.. image:: 1.jpeg
+.. image:: docs\source\_static\1.jpeg
   :width: 400
