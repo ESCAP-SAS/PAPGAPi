@@ -15,7 +15,6 @@ python: "3.10"
 # We can only define the content of the final deployment, if we do the complete build on our own.apt_packages:
 # So we need to handle package installation, build start and copying the right files for deployment.
 commands:
-- pip install .
 - pip install -r requirements.txt
 - sphinx-build -M simplepdf docs docs/build # Use a different build-folder for a really clean build
 - cp docs/build/simplepdf/AMI.pdf docs/source/_static/AMI.pdf
