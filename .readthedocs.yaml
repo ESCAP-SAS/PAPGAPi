@@ -1,22 +1,20 @@
-# .readthedocs.yaml
-# Read the Docs configuration file
+# Read the Docs configuration file for Sphinx projects
 # See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
 
 # Required
 version: 2
 
-# Set the version of Python and other tools you might need
+# Set the OS, Python version and other tools you might need
 build:
-os: ubuntu-22.04
-apt_packages:
-- default-jre # This seems to be ignored
-tools:
-python: "3.10"
-# We can only define the content of the final deployment, if we do the complete build on our own.apt_packages:
-# So we need to handle package installation, build start and copying the right files for deployment.
-commands:
-- pip install -r requirements.txt
-- sphinx-build -M simplepdf docs docs/build # Use a different build-folder for a really clean build
-- sphinx-build -M html docs docs/_build # HTML latest, because it needs the built PDF files
-- mkdir -p _readthedocs/html/
-- cp -r docs/_build/html/* _readthedocs/html/
+  os: ubuntu-22.04
+  tools:
+    python: "3.11"
+    # You can also specify other tool versions:
+    # nodejs: "20"
+    # rust: "1.70"
+    # golang: "1.20"
+
+# Build documentation in the "docs/" directory with Sphinx
+sphinx:
+  configuration: docs/conf.py
+  # You can configure Sphinx
