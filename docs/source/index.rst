@@ -15,4 +15,5 @@ Resources for GEMS data analysis
    technical_details
    conditions
    results_applications
+   lectures_workshops
 

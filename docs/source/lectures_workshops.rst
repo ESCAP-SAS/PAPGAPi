@@ -1,8 +1,7 @@
 Lectures and workshops
 ===========================================
-This section contains resources from trainings conducted on-site and online related to use of GEMS and remote sensing
-for air quality observation.
-
+This page shares resources from past lectures and trainings, conducted both online and on-site related to use of GEMS
+and remote sensing data for air quality monitoring.
 
 .. pdf-include:: source/_static/Lecture material - GEMS Online training.pdf
   :width: 40%
@@ -10,6 +9,4 @@ for air quality observation.
 .. raw:: html
 
    <a href="_static/Lecture material - GEMS Online training.pdf" download>
-1. Lecture Material (GEMS online training June 2023).pdf
-
-
+1. GEMS online training (June 2023)
