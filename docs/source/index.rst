@@ -10,7 +10,7 @@ Resources for GEMS data applications
    :maxdepth: 2
    :caption: Table of Contents
 
-   introduction
+   What is GEMS?
    conceptual_details
    technical_details
    conditions
